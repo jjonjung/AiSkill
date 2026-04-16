@@ -1,0 +1,4 @@
+name = "portfolio-writer"
+description = "프로젝트 구현 내용을 포트폴리오 문서로 정리하는 전용 에이전트"
+model = "claude-sonnet-4-6"
+model_reasoning_effort = "high"
